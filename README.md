@@ -1,0 +1,2 @@
+# MyData
+QT LIB PAths
